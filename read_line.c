@@ -64,13 +64,13 @@ void free_buffer(void)
 }
 
 
-int main(void)
-{
-    char *str;
+// int main(void)
+// {
+//     char *str;
 
-    str = read_line(stdin);
+//     str = read_line(stdin);
     
-    printf("str:%s\n",str);
+//     printf("str:%s\n",str);
 
-    return 0;
-}
+//     return 0;
+// }
